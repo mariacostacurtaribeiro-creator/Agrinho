@@ -16,30 +16,17 @@ O projeto foi desenvolvido com os seguintes propósitos:
 
 Tecnologias, linguagens e ferramentas utilizadas no desenvolvimento:
 
-* **Linguagem:** [ex: TypeScript / Python / Java]
-* **Framework:** [ex: React / Express / Spring Boot]
-* **Banco de Dados:** [ex: PostgreSQL / MongoDB]
-* **Ferramentas e Bibliotecas:** [ex: Docker, Prisma, Axios]
+* HTML;
+* CSS;
+* JavaScript;
+* GitHub
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-Organização principal dos diretórios do repositório:
-
 ```text
-├── src/            # Código-fonte da aplicação
-│   ├── assets/     # Arquivos estáticos (imagens, ícones)
-│   ├── components/ # Componentes reutilizáveis
-│   ├── routes/     # Definição das rotas/endpoints
-│   └── services/   # Integrações e serviços externos
-├── tests/          # Testes automatizados
-├── .gitignore      # Arquivos ignorados pelo Git
-├── package.json    # Dependências e scripts do projeto
-└── README.md       # Documentação principal
-
-```
-
-```
-
-```
+├── index.html      # Página principal e estrutura do site
+├── style.css       # Estilização e layout visual (CSS)
+├── script.js       # Lógica e interatividade (JavaScript)
+└── README.md       # Documentação do projeto
